@@ -1,6 +1,6 @@
 # OAuth2 Library 
 
-## [Overview](#7)
+## Overview <a name="7"></a>
 
 1. [__Features__](#1)
 2. [__Setting up a new project with OAuth2__](#2)
@@ -400,6 +400,6 @@ onButtonClick() {
 ---
 
 ### 6. Support <a name="6"></a>
-###### (back to top) <a name="7"></a>
+###### [(back to top)](#7)
 
 If you have any questions regarding the usage of the library you can contact us at: [...]
