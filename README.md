@@ -19,7 +19,7 @@
 
 ---
 
-### 2. Setting up a new project with OAuth2
+### 2. Setting up a new project with OAuth2 <a name="2"></a>
 
 If you want to use this library in your own project, to simplify the process of authorization, just follow these steps.
 
@@ -213,7 +213,7 @@ export class AppComponent {
 ```
 ---
 
-### 3. Testing with 'testbench' project
+### 3. Testing with 'testbench' project <a name="3"></a>
 
 1. If you want to test this library you can use the 'testbench' project. Navigate to the folder and install all missing packages.
 
@@ -281,7 +281,7 @@ You can find a full list of methods under ```Section 5```.
 
 ---
 
-### 4. The 'oauth' project and how it works
+### 4. The 'oauth' project and how it works <a name="4"></a>
 
 If you want to know how the service itself works you can take a look at the 'oauth' project. Navigate to it and install all missing packages.
 ```
@@ -294,7 +294,7 @@ If you navigate to '/src/app/services/' and inspect 'oauth2.service.ts' you can 
 
 ---
 
-### 5. All methods provided
+### 5. All methods provided <a name="5"></a>
 
 All method usage examples were made in the 'app.component.ts' from the 'testbench' project. Just add a button to the 'app.component.html', which executes the methods.
 ```
@@ -399,6 +399,6 @@ onButtonClick() {
 
 ---
 
-### 6. Support
+### 6. Support <a name="6"></a>
 
 If you have any questions regarding the usage of the library you can contact us at: [...]
